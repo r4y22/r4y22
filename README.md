@@ -1,7 +1,7 @@
-# 👋 Hi there! Welcome to my GitHub profile!
+# 👋 Hey! Welcome to my GitHub!
 
 ## About Me
-I am a **Third-Year Student** at **Western University** 🏫. I am passionate about technology and creativity, striving to build innovative projects and solutions.
+I am a **Third-Year Student** at **Western University** 🏫. I am passionate about technology and creativity, excited to build innovative projects and solutions.
 
 **👨‍💻 Major**: Computer Science  
 **🎮 Minor**: Game Development
