@@ -11,9 +11,9 @@ I am a **Third-Year Student** at **Western University** 🏫. I am passionate ab
 ## Projects
 Here are a few highlights of the projects I've worked on:
 
-- **[Animora](https://github.com/Animora)**: A pixel-themed virtual pet game inspired by Greek mythology, where players care for unique pets like Phoenix, Dragon, and Pegasus.
+- **[Animora](https://github.com/r4y22/Animora)**: A pixel-themed virtual pet game inspired by Greek mythology, where players care for unique pets like Phoenix, Dragon, and Pegasus.
 - **[Bora Bora Website](https://boraborainfo.com)**: A simple, informative website about the island of Bora Bora, featuring details on accommodation, culture, cuisine, and activities.
-- **[Noti](https://github.com/Noti)**: A collaborative study platform that lets students submit notes, generate questions, and connect with peers.
+- **[Noti](https://github.com/r4y22/Noti)**: A collaborative study platform that lets students submit notes, generate questions, and connect with peers.
 
 Check out more of my projects in my repositories! 🚀
 
